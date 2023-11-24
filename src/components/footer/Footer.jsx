@@ -6,15 +6,51 @@ import './Footer.css'
 const sponsors = [
   {
     id: 1,
-    name: 'Trutzi',
-    logo: process.env.PUBLIC_URL + '/Trutzi.png',
-    link: 'https://www.trutzi.ro/',
+    name: 'Celestin',
+    logo: process.env.PUBLIC_URL + '/Celestin.png',
+    link: 'https://www.tipografiacelestin.ro/',
   },
   {
     id: 2,
     name: 'USV',
     logo: process.env.PUBLIC_URL + '/Sigla-USV-scroll.png',
     link: 'https://www.usv.ro/',
+  },
+  {
+    id: 3,
+    name: 'Pepenero',
+    logo: process.env.PUBLIC_URL + '/pepenero.png',
+    link: 'https://pepeneropizza.ro/',
+  },
+  {
+    id: 4,
+    name: 'Vivendi',
+    logo: process.env.PUBLIC_URL + '/vivendi.png',
+    link: 'https://restaurantvivendi.ro/',
+  },
+  {
+    id: 4,
+    name: 'Fiterman',
+    logo: process.env.PUBLIC_URL + '/fiterman.png',
+    link: 'https://www.fitermanpharma.ro/',
+  },
+  {
+    id: 5,
+    name: 'Mihu',
+    logo: process.env.PUBLIC_URL + '/mihu.png',
+    link: 'https://mihushop.ro/firma/',
+  },
+  {
+    id: 6,
+    name: 'IuliuMoll',
+    logo: process.env.PUBLIC_URL + '/im.png',
+    link: 'https://suceava.iuliusmall.com/',
+  },
+  {
+    id: 7,
+    name: 'Suceava',
+    logo: process.env.PUBLIC_URL + '/suceava.png',
+    link: 'https://ro.wikipedia.org/wiki/Suceava',
   },
 ];
 
